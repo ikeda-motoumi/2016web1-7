@@ -15,6 +15,7 @@ body{
 
 #main{
   width: calc(100% - 200px);
+  min-width:500px;
   float: left;
 }
 
