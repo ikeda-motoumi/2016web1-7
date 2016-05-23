@@ -9,6 +9,7 @@ h2{
   color: white;
   position: fixed;
   width: 240px;
+  padding:0px0px;
 }
 
 body{
@@ -23,7 +24,7 @@ body{
 .box{
   background-color: white;
   width: 240px;
-  padding: 5px 0px;
+  padding: 0px 2px;
   height: 150px;
   float: left;
   margin: 5px;
