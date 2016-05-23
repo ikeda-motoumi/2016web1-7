@@ -23,10 +23,10 @@ body{
 .box{
   background-color: white;
   width: 240px;
-  padding: 5px;
+  padding: 5px 0px;
   height: 150px;
   float: left;
-  margin: 5px 0px;
+  margin: 5px;
   overflow: auto;
 }
 
