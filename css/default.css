@@ -3,6 +3,10 @@ header{
   font-size: 180%;
 }
 
+#main{
+  background-color: black;
+}
+
 .box{
   background-color: green;
   color: red;
