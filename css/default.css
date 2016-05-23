@@ -1,6 +1,12 @@
 header{
   background-color: white;
+  color: green;
   font-size: 180%;
+}
+
+h1{
+  background-color: #00FF7F;
+  color: white;
 }
 
 body{
@@ -9,7 +15,6 @@ body{
 
 .box{
   background-color: white;
-  color: #00FA9A;
   width: 240px;
   float: left;
   margin: 5px;
