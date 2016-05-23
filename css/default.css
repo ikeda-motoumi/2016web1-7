@@ -1,11 +1,13 @@
 header{
-  background
+  background-color: red;
+  font-size: 180%;
 }
 
-#main1{
-  background-color: ;
-  width:;
-  float:;
+.box{
+  background-color: green;
+  color: red;
+  width: 240px;
+  float: left;
+  margin: 5px;
 }
 
-aside
