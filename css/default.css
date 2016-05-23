@@ -30,6 +30,7 @@ aside{
   background-color: black;
   color: red;
   width: 200px;
-  border:10px;
+  border: red 1px;
+  padding:10px;
   float: right;
 }
