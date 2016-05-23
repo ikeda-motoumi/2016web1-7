@@ -7,9 +7,7 @@ header{
 h2{
   background-color: #00FF7F;
   color: white;
-  position: fixed;
   width: 240px;
-  padding:0px0px;
 }
 
 body{
@@ -38,4 +36,10 @@ aside{
   border: red 1px solid;
   padding:0px 2px;
   float: right;
+}
+
+fooder{
+  background-color: white;
+  color: green;
+  text-align: center;
 }
