@@ -7,7 +7,6 @@ header{
 h2{
   background-color: #00FF7F;
   color: white;
-  width: 240px;
 }
 
 body{
@@ -22,7 +21,6 @@ body{
 .box{
   background-color: white;
   width: 240px;
-  padding: 0px 2px;
   height: 150px;
   float: left;
   margin: 5px;
