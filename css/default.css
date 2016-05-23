@@ -25,6 +25,7 @@ aside{
   background-color: black;
   color: red;
   width: 100px;
+  border:1px;
   float: right;
   margin: 2px;
 }
